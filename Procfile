@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath egazeciarz egazeciarz.wsgi
+web: python --pythonpath egazeciarz egazeciarz.wsgi
