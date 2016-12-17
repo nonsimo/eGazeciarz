@@ -16,3 +16,4 @@ python-openid==2.2.5
 requests==2.3.0
 requests-oauthlib==0.4.1
 wsgiref==0.1.2
+gunicorn==19.4.5
