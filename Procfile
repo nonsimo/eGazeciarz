@@ -1,1 +1,1 @@
-web: python --pythonpath egazeciarz egazeciarz.wsgi
+web: python egazeciarz egazeciarz.wsgi
