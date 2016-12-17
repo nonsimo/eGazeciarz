@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app -p 5000
+web: gunicorn --pythonpath app app.wsgi
